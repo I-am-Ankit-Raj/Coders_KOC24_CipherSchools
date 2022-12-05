@@ -1,0 +1,157 @@
+body {}
+
+#d1,
+#h1 {
+    background-color: #7b7f85;
+    margin-left: -10px;
+    margin-right: 50px;
+    height: 50px;
+    width: 1600px;
+    text-align: center;
+}
+
+#d2,
+img {
+    margin-left: -10px;
+    width: 1600px;
+    height: 1600px;
+    margin-top: -10px;
+}
+
+#d3 {
+    color: #babec4;
+    margin-left: 50px;
+    margin-top: -1280px;
+}
+
+i:hover {
+    background-color: blanchedalmond;
+}
+
+nav {
+    background-color: #7b7f85;
+    width: 1600px;
+    margin-left: -10px;
+    text-align: center;
+    color: black;
+}
+
+#d4,
+a {
+    color: rgb(219, 209, 209);
+    margin-top: -77px;
+    margin-left: 30px;
+}
+
+#d5,
+h4 {
+    color: black(179, 169, 169);
+    margin-left: -5px;
+    margin-top: 50px;
+    background-color: greenyellow;
+    width: 852px;
+    height: 88px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.h8 {
+    width: 600px;
+    height: 700px;
+    margin-left: -8px;
+    margin-top: -111px;
+}
+
+#d7 {
+    margin-left: 620px;
+    margin-top: -620px;
+    border-bottom-left-radius: 40px;
+    background-color: lightgreen;
+    border-bottom: solid 8px rgb(116, 218, 133);
+    color: black;
+    background-color: #7b7f85;
+    margin-right: 700px;
+    width: 200px;
+}
+
+.h9 {
+    width: 750px;
+    height: 700px;
+    margin-left: 850px;
+    margin-top: -700px;
+}
+
+.h10 {
+    width: 1600px;
+    height: 1600px;
+    margin-top: -500px;
+    margin-left: -25px;
+}
+
+#d10,
+.h11 {
+    color: orange;
+    margin-top: -29px;
+    text-align: center;
+    background-image: url('pic8.png');
+    height: 1600px;
+    width: 1600px;
+    margin-left: -10px;
+}
+
+#p {
+    margin-top: -1550px;
+    color: orange;
+}
+
+#r {
+    width: 300px;
+    height: 400px;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(118, 124, 129);
+    margin-left: 77px;
+    opacity: 0.8;
+}
+
+#s {
+    width: 300px;
+    height: 400px;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(118, 124, 129);
+    margin-left: 577px;
+    opacity: 0.8;
+    margin-top: -400px;
+}
+
+#u {
+    width: 300px;
+    height: 400px;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(118, 124, 129);
+    margin-left: 1100px;
+    opacity: 0.8;
+    margin-top: -400px;
+}
+
+#d7:hover {
+    background-color: aquamarine;
+}
+
+#r:hover {
+    background-color: white;
+}
+
+#s:hover {
+    background-color: white;
+}
+
+#u:hover {
+    background-color: white;
+}
+
+#nav:hover {
+    background-color: aquamarine;
+}
